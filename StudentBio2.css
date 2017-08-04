@@ -1,0 +1,22 @@
+h1 { background-color: red; 
+	margin-left: 15px;
+		}
+h2 {text-decoration: underline;}
+
+img {margin-left: 55px;
+	display: block;}
+
+p {font-size: 18px;
+	color: red;
+	margin-left: 25px;
+	font-weight: bold;
+	}
+
+#div1 {background-color: pink;
+}
+
+.class1{
+	background-color: blue;
+	font-size: 12px;
+	color: white;
+}
